@@ -1,2 +1,2 @@
 # bash_aliases
-This project is to help create easy aliases for bug bounty hunting recon via SSH/Terminal
+These bash aliases are used to perform tedious and repetitive tasks via SSH/Terminal.
