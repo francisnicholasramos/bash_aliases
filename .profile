@@ -23,7 +23,6 @@ pyserver2() {
 python -m SimpleHTTPServer 8000
 }
 
-
 #dirsearch
 dirsearch() {
 cd dirsearch 
