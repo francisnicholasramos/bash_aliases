@@ -1,6 +1,18 @@
+#rootdir() {
+cd /
+}
+
+home() {
+cd /home/niko
+}
+
+c() {
+cd /mnt/c
+}
+
 #profile
 profile() {
-nano .profile
+vim .profile
 }
 
 #save bash profile
