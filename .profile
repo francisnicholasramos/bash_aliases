@@ -1,11 +1,14 @@
-#rootdir() {
+#Base folder
+rootdir() {
 cd /
 }
 
+#Home directory
 home() {
 cd /home/niko
 }
 
+#C 
 c() {
 cd /mnt/c
 }
